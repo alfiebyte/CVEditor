@@ -8,6 +8,9 @@
 
 A web app for creating, editing and browsing CVs. Users register an account, build their own CV, and anyone can search the directory by name or key programming language.
 
+![Preview](docs/preview.png)
+
+
 ## Features
 
 - **Browse and search:** view every CV in the directory, or search by name or key programming language
