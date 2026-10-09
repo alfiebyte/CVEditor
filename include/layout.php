@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title><?= htmlspecialchars($title) . " - Aston CV" ?></title>
+    <title><?= htmlspecialchars($title) . " - CV Editor" ?></title>
     <link rel="stylesheet" href="assets/styles/global.css" />
     <link rel="stylesheet" href="assets/styles/header.css" />
     <link rel="stylesheet" href="assets/styles/account.css" />

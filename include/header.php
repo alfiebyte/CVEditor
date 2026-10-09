@@ -4,7 +4,7 @@ include_once('auth.php');
 ?>
 <header class="header">
     <nav class="nav-menu">
-        <h1><a href="index.php">AstonCV</a></h1>
+        <h1><a href="index.php">CVEditor</a></h1>
     </nav>
     <nav class="nav-menu">
         <form class="search-form" action="index.php" method="GET">
